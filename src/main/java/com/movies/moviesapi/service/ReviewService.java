@@ -3,6 +3,7 @@ package com.movies.moviesapi.service;
 import com.movies.moviesapi.model.Movie;
 import com.movies.moviesapi.model.Review;
 import com.movies.moviesapi.repository.ReviewRepository;
+import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
