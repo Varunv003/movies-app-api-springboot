@@ -34,3 +34,7 @@ build/
 
 ### ENV FILES ###
 .env
+
+### idea files ###
+.idea/
+
